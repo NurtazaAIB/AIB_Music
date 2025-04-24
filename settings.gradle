@@ -1,0 +1,2 @@
+rootProject.name = 'AIB_Music'
+include ':app'
